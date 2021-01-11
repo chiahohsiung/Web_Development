@@ -1,0 +1,22 @@
+/*resources: csstricks*/
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+body {
+	background-image: url(boat.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #42279A;
+	text-align: center;
+	border: 3px solid rgba(94, 32, 151, 0.8);
+	cursor: pointer;
+}
+
+p {
+	color: rgb(45, 24, 112);
+
+}
