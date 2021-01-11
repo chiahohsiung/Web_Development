@@ -1,14 +1,14 @@
 # Web_Development
 
 ## General Resources
-[wdn](https://developer.mozilla.org/en-US/ "WDN") 
-[paletton](https://paletton.com/ "Paletton")
-[unsplash](https://unsplash.com/ "Unsplash-Free Pictures)
-[rubberduck](https://rubberduckdebugging.com/ "Rubberduck Debugging")
+1. [wdn](https://developer.mozilla.org/en-US/ "WDN") 
+2. [paletton](https://paletton.com/ "Paletton")
+3. [unsplash](https://unsplash.com/ "Unsplash-Free Pictures")
+4. [rubberduck](https://rubberduckdebugging.com/ "Rubberduck Debugging")
 
 ## HTML
-[w3school html](https://www.w3schools.com/html/)
+1. [w3school html](https://www.w3schools.com/html/ "W3School")
 
 ## CSS
-[csstricks](https://css-tricks.com/almanac/ "CSS Tricks-Selectors and Properties")
-[selectorgame](https://css-diner.netlify.app/ "CSS Selectors Game)
+1. [csstricks](https://css-tricks.com/almanac/ "CSS Tricks-Selectors and Properties")
+2. [selectorgame](https://css-diner.netlify.app/ "CSS Selectors Game")
