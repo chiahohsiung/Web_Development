@@ -12,3 +12,4 @@
 ## CSS
 1. [csstricks](https://css-tricks.com/almanac/ "CSS Tricks-Selectors and Properties")
 2. [selectorgame](https://css-diner.netlify.app/ "CSS Selectors Game")
+3. [transitions](https://thoughtbot.com/blog/transitions-and-transforms "transitions")
